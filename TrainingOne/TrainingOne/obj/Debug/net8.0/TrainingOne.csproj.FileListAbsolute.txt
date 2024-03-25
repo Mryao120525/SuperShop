@@ -1,0 +1,14 @@
+C:\Users\alexa\Desktop\SuperShop\TrainingOne\TrainingOne\bin\Debug\net8.0\TrainingOne.exe
+C:\Users\alexa\Desktop\SuperShop\TrainingOne\TrainingOne\bin\Debug\net8.0\TrainingOne.deps.json
+C:\Users\alexa\Desktop\SuperShop\TrainingOne\TrainingOne\bin\Debug\net8.0\TrainingOne.runtimeconfig.json
+C:\Users\alexa\Desktop\SuperShop\TrainingOne\TrainingOne\bin\Debug\net8.0\TrainingOne.dll
+C:\Users\alexa\Desktop\SuperShop\TrainingOne\TrainingOne\bin\Debug\net8.0\TrainingOne.pdb
+C:\Users\alexa\Desktop\SuperShop\TrainingOne\TrainingOne\obj\Debug\net8.0\TrainingOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\SuperShop\TrainingOne\TrainingOne\obj\Debug\net8.0\TrainingOne.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\SuperShop\TrainingOne\TrainingOne\obj\Debug\net8.0\TrainingOne.AssemblyInfo.cs
+C:\Users\alexa\Desktop\SuperShop\TrainingOne\TrainingOne\obj\Debug\net8.0\TrainingOne.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\SuperShop\TrainingOne\TrainingOne\obj\Debug\net8.0\TrainingOne.dll
+C:\Users\alexa\Desktop\SuperShop\TrainingOne\TrainingOne\obj\Debug\net8.0\refint\TrainingOne.dll
+C:\Users\alexa\Desktop\SuperShop\TrainingOne\TrainingOne\obj\Debug\net8.0\TrainingOne.pdb
+C:\Users\alexa\Desktop\SuperShop\TrainingOne\TrainingOne\obj\Debug\net8.0\TrainingOne.genruntimeconfig.cache
+C:\Users\alexa\Desktop\SuperShop\TrainingOne\TrainingOne\obj\Debug\net8.0\ref\TrainingOne.dll
